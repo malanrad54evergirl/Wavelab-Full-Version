@@ -233,4 +233,4 @@ This repository serves as the official landing page for Wavelab. The software is
 This README.md is tailored specifically for Wavelab by Steinberg, adhering to your guidelines and ensuring it is both moderation-safe and SEO-optimized.
 
 ---
-**Last updated:** 2026-09-20 18:06:12 UTC
+**Last updated:** 2026-09-20 21:17:16 UTC
